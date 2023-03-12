@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MW_Spoof/1.0.0": {
+        "runtime": {
+          "MW_Spoof.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MW_Spoof/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
